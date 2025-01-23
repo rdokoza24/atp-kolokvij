@@ -43,3 +43,5 @@ if(isProd) {
 |**Naziv projekta**|**Verzija**|**Autor**|
 |--------------------|-------------|---------------|
 | Kolokvij| 1.0 | Roko Dokoza|
+
+[Read LICENSE](LICENSE.MD)
