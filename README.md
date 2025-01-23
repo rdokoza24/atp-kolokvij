@@ -2,7 +2,7 @@
 
 ## Wikipedija je globalan, višejezični projekt s ciljem izgradnje slobodne internetske enciklopedije koja je svima javno dostupna. Njezini su suradnici dobrovoljci. Wikipedijom danas rukovodi neprofitna organizacija
 
-![Slika](https://www.pexels.com/photo/photo-of-two-red-dices-965879/)
+![Slika](https://images.pexels.com/photos/965879/pexels-photo-965879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ```
 const isProd = process.env.NODE_ENV === 'production'
@@ -20,7 +20,7 @@ if(isProd) {
 ### Izvori
 
 1. [Wikipedia](https://hr.wikipedia.org/wiki/Glavna_stranica)
-2. [Slika izvučena sa Pexels](https://www.pexels.com/photo/photo-of-two-red-dices-965879/)
+2. [Slika izvučena sa Pexels](https://images.pexels.com/photos/965879/pexels-photo-965879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 
