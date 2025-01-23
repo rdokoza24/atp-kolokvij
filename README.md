@@ -32,11 +32,11 @@ if(isProd) {
 5. Dodavanje izvora.
 
 ### Ne-numerčki popis
-*Dodavanje naslova.
-*Dodavanje podnaslova.
-*Dodavanje slika.
-*Dodavanje Bloka koda.
-*Dodavanje izvora.
+-Dodavanje naslova.
+-Dodavanje podnaslova.
+-Dodavanje slika.
+-Dodavanje Bloka koda.
+-Dodavanje izvora.
 
 
 ### Tablica
