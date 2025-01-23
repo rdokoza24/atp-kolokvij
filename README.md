@@ -44,4 +44,4 @@ if(isProd) {
 |--------------------|-------------|---------------|
 | Kolokvij| 1.0 | Roko Dokoza|
 
-[Read LICENSE](LICENSE.MD)
+[Read LICENSE](LICENSE.md)
